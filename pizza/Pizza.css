@@ -1,0 +1,20 @@
+body{
+    background-color: lightyellow;
+    background-image:url("pizza.png");
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    background-position: bottom right;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+.clCorpo {
+    width: 30%;
+    margin: auto;
+    margin-top: 12%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3pt solid;
+    border-radius: 7%;
+}
